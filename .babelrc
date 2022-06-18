@@ -1,0 +1,6 @@
+{
+  // 这是一个json文件
+  "presets": [
+    "@babel/preset-env"
+  ]
+}
